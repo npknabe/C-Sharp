@@ -1,0 +1,6 @@
+C:\ProgrammingProjects\C#\tutorial from bob talor\Day2\arrays\bin\Release\arrays.exe.config
+C:\ProgrammingProjects\C#\tutorial from bob talor\Day2\arrays\bin\Release\arrays.exe
+C:\ProgrammingProjects\C#\tutorial from bob talor\Day2\arrays\bin\Release\arrays.pdb
+C:\ProgrammingProjects\C#\tutorial from bob talor\Day2\arrays\obj\Release\Arrays.csprojResolveAssemblyReference.cache
+C:\ProgrammingProjects\C#\tutorial from bob talor\Day2\arrays\obj\Release\arrays.exe
+C:\ProgrammingProjects\C#\tutorial from bob talor\Day2\arrays\obj\Release\arrays.pdb

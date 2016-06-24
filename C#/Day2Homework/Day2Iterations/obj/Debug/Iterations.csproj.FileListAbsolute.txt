@@ -1,0 +1,3 @@
+C:\ProgrammingProjects\C#\tutorial from bob talor\Day2Homework\Day2Iterations\bin\Debug\Day2Iterations.exe.config
+C:\ProgrammingProjects\C#\tutorial from bob talor\Day2Homework\Day2Iterations\obj\Debug\Day2Iterations.exe
+C:\ProgrammingProjects\C#\tutorial from bob talor\Day2Homework\Day2Iterations\obj\Debug\Day2Iterations.pdb

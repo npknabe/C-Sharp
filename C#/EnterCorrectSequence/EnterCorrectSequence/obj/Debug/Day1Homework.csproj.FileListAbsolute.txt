@@ -1,0 +1,6 @@
+C:\ProgrammingProjects\C#\tutorial from bob talor\Day1Homework\Day1Homework\bin\Debug\Day1Homework.exe.config
+C:\ProgrammingProjects\C#\tutorial from bob talor\Day1Homework\Day1Homework\bin\Debug\Day1Homework.exe
+C:\ProgrammingProjects\C#\tutorial from bob talor\Day1Homework\Day1Homework\bin\Debug\Day1Homework.pdb
+C:\ProgrammingProjects\C#\tutorial from bob talor\Day1Homework\Day1Homework\obj\Debug\Day1Homework.csprojResolveAssemblyReference.cache
+C:\ProgrammingProjects\C#\tutorial from bob talor\Day1Homework\Day1Homework\obj\Debug\Day1Homework.exe
+C:\ProgrammingProjects\C#\tutorial from bob talor\Day1Homework\Day1Homework\obj\Debug\Day1Homework.pdb

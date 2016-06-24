@@ -1,0 +1,7 @@
+C:\ProgrammingProjects\C#\tutorial from bob talor\Day2\readingtextfile\bin\Release\Values.txt
+C:\ProgrammingProjects\C#\tutorial from bob talor\Day2\readingtextfile\bin\Release\readingtextfile.exe.config
+C:\ProgrammingProjects\C#\tutorial from bob talor\Day2\readingtextfile\bin\Release\readingtextfile.exe
+C:\ProgrammingProjects\C#\tutorial from bob talor\Day2\readingtextfile\bin\Release\readingtextfile.pdb
+C:\ProgrammingProjects\C#\tutorial from bob talor\Day2\readingtextfile\obj\Release\readingtextfile.csprojResolveAssemblyReference.cache
+C:\ProgrammingProjects\C#\tutorial from bob talor\Day2\readingtextfile\obj\Release\readingtextfile.exe
+C:\ProgrammingProjects\C#\tutorial from bob talor\Day2\readingtextfile\obj\Release\readingtextfile.pdb

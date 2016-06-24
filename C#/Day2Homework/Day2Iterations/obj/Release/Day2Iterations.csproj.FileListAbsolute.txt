@@ -1,0 +1,6 @@
+C:\ProgrammingProjects\C#\tutorial from bob talor\Day2\Day2Iterations\bin\Release\Day2Iterations.exe.config
+C:\ProgrammingProjects\C#\tutorial from bob talor\Day2\Day2Iterations\bin\Release\Day2Iterations.exe
+C:\ProgrammingProjects\C#\tutorial from bob talor\Day2\Day2Iterations\bin\Release\Day2Iterations.pdb
+C:\ProgrammingProjects\C#\tutorial from bob talor\Day2\Day2Iterations\obj\Release\Day2Iterations.csprojResolveAssemblyReference.cache
+C:\ProgrammingProjects\C#\tutorial from bob talor\Day2\Day2Iterations\obj\Release\Day2Iterations.exe
+C:\ProgrammingProjects\C#\tutorial from bob talor\Day2\Day2Iterations\obj\Release\Day2Iterations.pdb

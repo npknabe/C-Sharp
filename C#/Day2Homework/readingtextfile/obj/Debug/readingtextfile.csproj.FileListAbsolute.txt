@@ -1,0 +1,1 @@
+C:\ProgrammingProjects\C#\tutorial from bob talor\Day2\readingtextfile\bin\Debug\readingtextfile.exe.config
